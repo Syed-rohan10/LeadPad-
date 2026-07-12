@@ -1,6 +1,6 @@
 # LeadPad Privacy Policy
 
-_Last updated: [DATE — fill in before publishing]_
+_Last updated:Sunday, July 12, 2026
 
 ## What LeadPad does
 
@@ -44,7 +44,7 @@ locally stored data).
 - **Gumroad / Stripe**: used only to process payments and verify license
   keys. See their respective privacy policies:
   [Gumroad](https://gumroad.com/privacy) /
-  [Stripe](https://stripe.com/privacy).
+ 
 - **LinkedIn**: LeadPad runs on linkedin.com pages but is not affiliated
   with, endorsed by, or connected to LinkedIn Corporation.
 
